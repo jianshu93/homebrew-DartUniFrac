@@ -4,9 +4,9 @@
 class Dartunifrac < Formula
   desc "DartUniFrac: Approximate unweighted UniFrac via Weighted MinHash"
   homepage "https://github.com/jianshu93/DartUniFrac"
-  url "https://github.com/jianshu93/DartUniFrac/releases/download/v0.1.0/dartunifrac_Darwin_universal_v0.1.0.tar.gz"
-  sha256 "7a53bffe0b15139c80f2679606db807785c7cf0771cfeca09192cdfa9d54b145"
-  version "0.1.0"
+  url "https://github.com/jianshu93/DartUniFrac/releases/download/v0.2.2/dartunifrac_Darwin_universal_v0.2.2.tar.gz"
+  sha256 "fbd984ae3628b0b2d70bc43a01d23371e56691745a91c0b18a7d5e482a903480"
+  version "0.2.2"
 
   def install
     bin.install "dartunifrac"
